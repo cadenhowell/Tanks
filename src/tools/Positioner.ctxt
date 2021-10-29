@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Positioner
+comment1.params=jl\ width
+comment1.target=int\ getCenterX(javax.swing.JLayeredPane,\ int)
+comment10.params=jl\ height
+comment10.target=int\ getThreeQuarterY(javax.swing.JLayeredPane,\ int)
+comment2.params=jl\ height
+comment2.target=int\ getCenterY(javax.swing.JLayeredPane,\ int)
+comment3.params=jl\ width
+comment3.target=int\ getThirdX(javax.swing.JLayeredPane,\ int)
+comment4.params=jl\ height
+comment4.target=int\ getThirdY(javax.swing.JLayeredPane,\ int)
+comment5.params=jl\ width
+comment5.target=int\ getTwoThirdX(javax.swing.JLayeredPane,\ int)
+comment6.params=jl\ height
+comment6.target=int\ getTwoThirdY(javax.swing.JLayeredPane,\ int)
+comment7.params=jl\ width
+comment7.target=int\ getQuarterX(javax.swing.JLayeredPane,\ int)
+comment8.params=jl\ height
+comment8.target=int\ getQuarterY(javax.swing.JLayeredPane,\ int)
+comment9.params=jl\ width
+comment9.target=int\ getThreeQuarterX(javax.swing.JLayeredPane,\ int)
+numComments=11

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Tank
+comment1.params=mainPane\ x\ y
+comment1.target=Tank(javax.swing.JLayeredPane,\ int,\ int)
+comment2.params=degs
+comment2.target=void\ rotateTank(int)
+comment3.params=img
+comment3.target=java.awt.image.BufferedImage\ toBufferedImage(java.awt.Image)
+comment4.params=
+comment4.target=void\ fire()
+numComments=5
