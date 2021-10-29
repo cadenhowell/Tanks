@@ -1,7 +1,6 @@
 # Tanks
 
 ## By Caden Howell
-<br/>
 
 ### How to play
 	It is a two player game. One uses WASDF and the other uses the arrows and /.
